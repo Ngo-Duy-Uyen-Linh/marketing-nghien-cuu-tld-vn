@@ -1,0 +1,13 @@
+{
+  "name": "marketing-nghien-cuu-tld-vn",
+  "owner": {
+    "name": "Thế Là Được"
+  },
+  "plugins": [
+    {
+      "name": "marketing-nghien-cuu-tld-vn",
+      "source": "./",
+      "description": "Marketing: nghiên cứu và kế hoạch. Hỗ trợ tổ chức nghiên cứu xu hướng, mổ xẻ bài mẫu, so đối thủ, lập kế hoạch chiến dịch và kế hoạch nội dung, báo cáo hiệu quả, đọc số liệu, thử nhiều phiên bản và rút bài học. Một phần của bộ Marketing-skills-tld-vn. Không có kết nối ra ngoài."
+    }
+  ]
+}
