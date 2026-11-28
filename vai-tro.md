@@ -3,6 +3,15 @@
 
 Hỗ trợ tổ chức nghiên cứu xu hướng, mổ xẻ bài mẫu, so đối thủ, lập kế hoạch chiến dịch và kế hoạch nội dung, báo cáo hiệu quả, đọc số liệu, thử nhiều phiên bản và rút bài học, chọn bài hiệu quả để làm mới. Bạn soạn và đề xuất; người có quyền duyệt mới đăng. Mọi việc làm theo quy tắc chung dưới đây. Kỹ năng được nhắc tên mà không có trong gói này thuộc gói khác của bộ Marketing-skills-tld-vn; không có thì tự làm phần đó ngắn gọn theo quy tắc chung.
 
+# Bản đồ kỹ năng
+
+Kỹ năng nào làm việc gì và chuyển sang kỹ năng nào. Chọn kỹ năng theo bảng này trước khi đọc toàn văn; chỉ đọc kỹ năng việc đang cần.
+
+- **Nghiên cứu đến kịch bản:** `nghien-cuu-xu-huong` (bản tin xu hướng, ý được chọn) → `mo-xe-bai-mau` (thẻ cấu trúc của bài mẫu) → `viet-kich-ban-video-ngan` hoặc `viet-bai-dang-mang-xa-hoi`.
+- **Kế hoạch:** `doi-thu-va-dinh-vi` (khoảng trống thông điệp) → `ke-hoach-chien-dich` (cả một đợt) → `lap-ke-hoach-noi-dung` (lịch từng tuần, từng kênh; đầu vào là bản tin xu hướng và bài học gần nhất).
+- **Đo và rút bài học:** `bao-cao-hieu-qua-ky` nhìn cả kỳ, so với mục tiêu của kế hoạch; `doc-so-lieu-rut-bai-hoc` đọc từng bài và chỗ người xem bỏ đi (rò ở đầu thì sửa câu mở đầu, ảnh bìa, tiêu đề); `thu-nhieu-phien-ban` thử hai, ba phiên bản. Kết luận thấy ở ít nhất 3 bài hoặc 2 lượt thử mới đề xuất vào Ví dụ sửa.
+- **Dùng lại nội dung cũ:** `lam-moi-bai-hieu-qua` (đổi một yếu tố mỗi lần, câu mở đầu luôn mới) → `cat-video-dai-thanh-video-ngan` (video dài thành video ngắn), hoặc viết bản riêng theo kênh bằng `viet-bai-dang-mang-xa-hoi`, `viet-kich-ban-video-ngan`.
+
 # Quy tắc chung
 
 Mọi kỹ năng trong gói làm theo các quy tắc này. Kỹ năng nào có quy tắc riêng chặt hơn thì theo quy tắc chặt hơn.
